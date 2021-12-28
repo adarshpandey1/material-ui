@@ -1,0 +1,22 @@
+export const imagelist = [
+    {
+       id:1,
+       imgSrc:'assets/unibuddy1.svg'
+    },
+    {
+        id:2,
+        imgSrc:'assets/unibuddy2.svg"'
+    },
+    {
+        id:3,
+        imgSrc:'assets/unibuddy3.svg"'
+    },
+    {
+        id:4,
+        imgSrc:'assets/unibuddy4.svg"'
+    },
+    {
+        id:5,
+        imgSrc:'assets/unibuddy5.svg"'
+    },
+]

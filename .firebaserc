@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "advance-filter-app",
+    "unibuddy-clone": "unibuddy-clone"
+  },
+  "targets": {}
+}
